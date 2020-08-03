@@ -4,7 +4,7 @@
 ### About
 
 -  **Studying :** Computer engineering
--  **Learning :** Embedded systems development
+-  **Learning :** Embedded systems development & Rust
 -  **Languages :** C, C++, Java, Python
 -  **Hobbies :** Articles & Open-Source world
 
