@@ -4,7 +4,7 @@
 ### About
 
 -  **Studying :** Computer engineering
--  **Learning :** Embedded systems development & Rust
+-  **Learning :** FreeRTOS on embedded systems & Rust
 -  **Languages :** C, C++, Java, Python
 -  **Hobbies :** Articles & Open-Source world
 
