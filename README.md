@@ -5,8 +5,7 @@
 ### About
 
 -  **Studying :** Computer engineering
--  **Learning :** FreeRTOS on embedded systems & Rust
--  **Languages :** C, C++, Java, Python
+-  **Tecnologies :** C, C++, Java, Python, FreeRTOS, Embedded systems
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
