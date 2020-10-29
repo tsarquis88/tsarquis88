@@ -5,7 +5,7 @@
 ### About
 
 -  **Studying :** Computer engineering
--  **Technologies :** C, C++, Java, Python, FreeRTOS, Embedded systems
+-  **Technologies :** C, C++, Java, Python, Linux, FreeRTOS, Embedded systems
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
